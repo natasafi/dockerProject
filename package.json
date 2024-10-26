@@ -6,7 +6,7 @@
   "dependencies": {
     "express": "*",
     "node-modules": "^1.0.1",
-    "redis": "3.0.2"
+    "redis": "3.1.1"
   },
   "scripts": {
     "start": "node listen.js",
